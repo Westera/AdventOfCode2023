@@ -22,7 +22,7 @@ public class Day01 {
             this.value = value;
         }
     }
-    public static void main(String [] args) throws IOException {
+    public static void main(String[] args) throws IOException {
         System.out.println(new Day01().part1("inputs/Day01"));
         System.out.println(new Day01().part2("inputs/Day01"));
     }
